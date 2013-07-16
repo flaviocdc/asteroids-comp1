@@ -1,0 +1,2 @@
+cp -f data/records.dat.orig data/records.dat
+cp -f data/keyboard.dat.orig data/keyboard.dat
